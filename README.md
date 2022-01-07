@@ -1,4 +1,4 @@
-# Hey there, It's Abdullahil Ashik Md. Arefin - aka [Mr. Python](https://www.youtube.com/channel/UCjAuq_1elOlk36NKWUZ92kw)
+# Hey there, It's Abdullahil Ashik Md. Arefin
 
 ### Enthusiastic Team Leader, Programmer And A Father
 - 👋 Hi, I’m Ashik
@@ -25,8 +25,7 @@ Languages, Tools, Frameworks and CMS i've used or worked with so far and gained 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="22px"/>](https://www.instagram.com/abdullahil_ashik/) 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/abdullahil-ashik-arefin-225802165/) 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" width="22px"/>](https://www.facebook.com/abdullah.ashik.arefin/) 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" width="22px"/>](https://github.com/abdullahilashik/)
-
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" width="22px"/>](https://github.com/abdullahilashik/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" width="22px"/>](https://www.youtube.com/channel/UCjAuq_1elOlk36NKWUZ92kw)
 
 <!---
 abdullahilashik/abdullahilashik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
