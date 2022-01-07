@@ -10,8 +10,10 @@
 ### 📫 How to reach me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="22px"/>](https://www.instagram.com/abdullahil_ashik/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/abdullahil-ashik-arefin-225802165/)
-
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" width="22px"/>](https://www.facebook.com/abdullah.ashik.arefin/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" width="22px"/>](https://github.com/abdullahilashik/)
 <!---
 abdullahilashik/abdullahilashik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://simpleicons.org/
 --->
