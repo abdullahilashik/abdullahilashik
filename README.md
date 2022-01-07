@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 
 ### Languages & Tools
-[<img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/>][photoshop]
+<img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/>
 
 ### 📫 How to reach me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="22px"/>](https://www.instagram.com/abdullahil_ashik/) 
