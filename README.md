@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 
 ### Languages & Tools
-<img src="https://simpleicons.org/icons/python.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img src="https://simpleicons.org/icons/java.svg" width="22px"> <img src="https://simpleicons.org/icons/javascript.svg" width="22px"> <img src="https://simpleicons.org/icons/flutter.svg" width="22px">
+<img src="https://simpleicons.org/icons/python.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img src="https://simpleicons.org/icons/java.svg" width="22px"> <img src="https://simpleicons.org/icons/javascript.svg" width="22px"> <img src="https://simpleicons.org/icons/flutter.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/php.svg"/> <img width="22px" src="https://simpleicons.org/icons/laravel.svg" style="color:#FF2D20"/>
 
 ### 📫 How to reach me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="22px"/>](https://www.instagram.com/abdullahil_ashik/) 
