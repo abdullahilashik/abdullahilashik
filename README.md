@@ -15,7 +15,7 @@ Languages, Tools, Frameworks and CMS i've used or worked with so far and gained 
 
 #### Tools & OS
 
-<img width="22px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img width="22px" src="https://simpleicons.org/icons/androidstudio.svg"/> <img width="22px" src="https://simpleicons.org/icons/ubuntu.svg" /> <img width="22px" src="https://simpleicons.org/icons/kalilinux.svg"/>
+<img width="22px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img width="22px" src="https://simpleicons.org/icons/androidstudio.svg"/> <img width="22px" src="https://simpleicons.org/icons/ubuntu.svg" /> <img width="22px" src="https://simpleicons.org/icons/kalilinux.svg"/> <img width="22px" src="https://simpleicons.org/icons/adobepremierepro.svg" /> <img width="22px" src="https://simpleicons.org/icons/obsstudio.svg"/>
 
 #### DBMS
 
