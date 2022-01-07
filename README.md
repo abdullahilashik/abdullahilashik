@@ -1,8 +1,14 @@
+# Hey there, It's Abdullahil Ashik Md. Arefin
+
 - 👋 Hi, I’m @abdullahilashik
 - 👀 I’m interested in learning project management and mastering the art
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django Projects for learning purpose only
 - 📫 How to reach me ...
+
+### REACH ME VIA
+
+[linkedin](https://www.linkedin.com/in/abdullahil-ashik-arefin-225802165/)
 
 my lnkedin id: https://www.linkedin.com/in/abdullahil-ashik-arefin-225802165/
 
