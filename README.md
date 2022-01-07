@@ -8,7 +8,18 @@
 - 📫 How to reach me ...
 
 ### Languages & Tools
-<img src="https://simpleicons.org/icons/python.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/django.svg"/> <img width="22px" src="https://simpleicons.org/icons/opencv.svg" /> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img src="https://simpleicons.org/icons/java.svg" width="22px"> <img src="https://simpleicons.org/icons/javascript.svg" width="22px"> <img src="https://simpleicons.org/icons/flutter.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/php.svg"/> <img width="22px" src="https://simpleicons.org/icons/laravel.svg" style="color:#FF2D20"/> <img width="22px" src="https://simpleicons.org/icons/codeigniter.svg" /> <img width="22px" src="https://simpleicons.org/icons/angular.svg" /> <img width="22px" src="https://simpleicons.org/icons/angularjs.svg"/> <img width="22px" src="https://simpleicons.org/icons/vuedotjs.svg" /> <img width="22px" src="https://simpleicons.org/icons/mysql.svg" /> <img width="22px" src="https://simpleicons.org/icons/sqlite.svg" /> <img width="22px" src="https://simpleicons.org/icons/pycharm.svg" />
+Languages, Tools, Frameworks and CMS i've used or worked with so far and gained some experience.
+
+#### Languages & Frameworks
+<img src="https://simpleicons.org/icons/python.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/django.svg"/> <img src="https://simpleicons.org/icons/java.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/opencv.svg" /> <img src="https://simpleicons.org/icons/javascript.svg" width="22px"> <img src="https://simpleicons.org/icons/flutter.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/php.svg"/> <img width="22px" src="https://simpleicons.org/icons/laravel.svg" style="color:#FF2D20"/> <img width="22px" src="https://simpleicons.org/icons/codeigniter.svg" /> <img width="22px" src="https://simpleicons.org/icons/angular.svg" /> <img width="22px" src="https://simpleicons.org/icons/angularjs.svg"/> <img width="22px" src="https://simpleicons.org/icons/vuedotjs.svg" />
+
+#### Tools
+
+<img width="22px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="22px" src="https://simpleicons.org/icons/adobephotoshop.svg"/> <img width="22px" src="https://simpleicons.org/icons/androidstudio.svg"/>
+
+#### DBMS
+
+ <img width="22px" src="https://simpleicons.org/icons/mysql.svg" /> <img width="22px" src="https://simpleicons.org/icons/sqlite.svg" />  
 
 ### 📫 How to reach me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="22px"/>](https://www.instagram.com/abdullahil_ashik/) 
