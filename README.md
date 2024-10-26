@@ -1,10 +1,8 @@
 # Hey there, It's Abdullahil Ashik Md. Arefin
 
-### Enthusiastic Team Leader, Programmer And A Father
+### Full stack developer
 - 👋 Hi, I’m Ashik
 - 👀 Eager to learn new technologies and enrich my skillset
-- 🌱 Proudly being a part of a great Start-up
-- 💞️ I’m interested to collaborate on Django Projects for learning purpose only
 - 📫 Read below to know more about me....
 
 ### Languages & Tools
