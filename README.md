@@ -12,14 +12,7 @@ Languages, Tools, Frameworks and CMS i've used or worked with so far and gained 
 
 #### Languages & Frameworks
 
-<img width="22px" src="https://simpleicons.org/icons/php.svg"/> 
-<img width="22px" src="https://simpleicons.org/icons/laravel.svg" style="color:#FF2D20"/> 
-<img src="https://simpleicons.org/icons/javascript.svg" width="22px"> 
-<img src="https://simpleicons.org/icons/flutter.svg" width="22px"> 
-<img src="https://simpleicons.org/icons/python.svg" width="22px"> 
-<img width="22px" src="https://simpleicons.org/icons/codeigniter.svg" /> 
-<img width="22px" src="https://simpleicons.org/icons/angular.svg" /> 
-<img width="22px" src="https://simpleicons.org/icons/angularjs.svg"/> 
+<img width="22px" src="https://simpleicons.org/icons/php.svg"/> <img width="22px" src="https://simpleicons.org/icons/laravel.svg" style="color:#FF2D20"/> <img src="https://simpleicons.org/icons/javascript.svg" width="22px"> <img src="https://simpleicons.org/icons/flutter.svg" width="22px"> <img src="https://simpleicons.org/icons/python.svg" width="22px"> <img width="22px" src="https://simpleicons.org/icons/codeigniter.svg" /> <img width="22px" src="https://simpleicons.org/icons/angular.svg" />
 
 #### Tools & OS
 
